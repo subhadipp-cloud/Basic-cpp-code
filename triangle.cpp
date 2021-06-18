@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int sidea,sideb,sidec;
+    cout<<"Input three sides of triangle";
+    
